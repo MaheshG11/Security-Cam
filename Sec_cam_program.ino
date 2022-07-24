@@ -27,10 +27,11 @@
 
 int pir_pin_no = 13;   //pin for PIR Motion Sensor
 
-const char* wifi_name     = "GlobusinternationalSchool";   //WIFI wifi_name
-const char* wifi_password = "air45316";   //WIFI wifi_password
-String to_id = "5244539298:AAF2EZQgxZVOtSwu28ud8UGVyODWZbaBU3Y";//token id of the bot created
-String ch_id = "1328382963";// chat id where image is to be sent
+const char* wifi_name     = "Wifi SSID";   //WIFI wifi_name
+const char* wifi_password = "Wifi Password";   //WIFI wifi_password
+String to_id = "Bot_token_ID";//token id of the bot created
+String ch_id = "Your chat id";// chat id where image is to be sent
+
 
 void conn_to_wifi(){
   WiFi.mode(WIFI_STA);
