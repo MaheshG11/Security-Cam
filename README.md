@@ -10,3 +10,7 @@ The following connections are to be made:-
 2.while using it
 
 ![connections when using](https://user-images.githubusercontent.com/76564249/180646861-7ce70cfc-8e70-418a-8656-222fdc66d420.png)
+
+
+The Video is uploaded Here
+https://drive.google.com/drive/folders/1960xVuHUjmwcAzGNk9IlqbPIcfx-C4FG?usp=sharing
